@@ -5,7 +5,7 @@
 
 >***Pagina responsiva de contacto decorada y adornada con distintos elementos.***
 
-[Presiona aqui para jugar](https://ezequse.github.io/Proyecto_a/).
+[Presiona aqui para visualizar](https://ezequse.github.io/Proyecto_a/).
 
 
 
